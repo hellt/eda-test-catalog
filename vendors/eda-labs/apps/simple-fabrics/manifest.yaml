@@ -34,10 +34,10 @@ spec:
           category: Fabrics
           name: Simple Fabrics
         names:
+          plural: simplefabrics
           singular: simplefabric
           kind: SimpleFabric
           listKind: SimpleFabricList
-          plural: simplefabrics
     - script:
         path: simple_fabrics/intents/simplefabric/config_intent.py
         trigger:
